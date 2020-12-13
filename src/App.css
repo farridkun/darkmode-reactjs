@@ -1,0 +1,19 @@
+* {
+  margin: 0%;
+}
+
+a {
+  color: #000 !important;
+}
+
+.darkmode--activated a {
+  color: #fff !important;
+}
+
+.active {
+  font-weight: bold !important;
+}
+
+.darkmode--activated .active {
+  font-weight: bold !important;
+}
