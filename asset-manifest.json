@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/farridkun/darkmode-reactjs/static/css/main.dc1ee45f.chunk.css",
+    "main.js": "/farridkun/darkmode-reactjs/static/js/main.b42e9347.chunk.js",
+    "main.js.map": "/farridkun/darkmode-reactjs/static/js/main.b42e9347.chunk.js.map",
+    "runtime-main.js": "/farridkun/darkmode-reactjs/static/js/runtime-main.30aa6324.js",
+    "runtime-main.js.map": "/farridkun/darkmode-reactjs/static/js/runtime-main.30aa6324.js.map",
+    "static/css/2.1a02f21c.chunk.css": "/farridkun/darkmode-reactjs/static/css/2.1a02f21c.chunk.css",
+    "static/js/2.107bc9da.chunk.js": "/farridkun/darkmode-reactjs/static/js/2.107bc9da.chunk.js",
+    "static/js/2.107bc9da.chunk.js.map": "/farridkun/darkmode-reactjs/static/js/2.107bc9da.chunk.js.map",
+    "static/js/3.f9191593.chunk.js": "/farridkun/darkmode-reactjs/static/js/3.f9191593.chunk.js",
+    "static/js/3.f9191593.chunk.js.map": "/farridkun/darkmode-reactjs/static/js/3.f9191593.chunk.js.map",
+    "index.html": "/farridkun/darkmode-reactjs/index.html",
+    "static/css/2.1a02f21c.chunk.css.map": "/farridkun/darkmode-reactjs/static/css/2.1a02f21c.chunk.css.map",
+    "static/css/main.dc1ee45f.chunk.css.map": "/farridkun/darkmode-reactjs/static/css/main.dc1ee45f.chunk.css.map",
+    "static/js/2.107bc9da.chunk.js.LICENSE.txt": "/farridkun/darkmode-reactjs/static/js/2.107bc9da.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.30aa6324.js",
+    "static/css/2.1a02f21c.chunk.css",
+    "static/js/2.107bc9da.chunk.js",
+    "static/css/main.dc1ee45f.chunk.css",
+    "static/js/main.b42e9347.chunk.js"
+  ]
+}
